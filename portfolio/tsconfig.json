@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+    "jsx": "react-jsx", // Use "react" if React 16 or older
+    "strict": true,
+    "target": "es6",
+    "module": "esnext",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true
+    },
+    "include": ["src/**/*"]
+}
